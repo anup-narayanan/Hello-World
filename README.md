@@ -1,3 +1,3 @@
 # Hello-World
 Learning Git
-I am Anup Narayanan and I am edithing this file in the branch readme-edits
+I am Anup Narayanan and I am editing this file in the branch readme-edits
